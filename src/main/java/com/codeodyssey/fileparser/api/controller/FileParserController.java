@@ -16,7 +16,7 @@ import com.codeodyssey.fileparser.api.model.StoreOrder;
 import com.codeodyssey.fileparser.api.service.IFileParserService;
 
 /**
- * @author hiran
+ * 
  * @Description Controller dispatches the 
  * incoming request to Respective FileParser Service based on filetype(extension)
  * Note:Could be extended to provide RestAPI endpoint from this Controller

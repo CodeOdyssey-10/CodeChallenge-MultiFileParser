@@ -6,7 +6,6 @@ import java.util.List;
 import io.micrometer.core.instrument.util.StringUtils;
 
 /**
- * @author hiran
  * Utility for parsing csv file line
  */
 public class CSVUtils {

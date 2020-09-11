@@ -11,7 +11,7 @@ import javax.persistence.Table;
 import org.springframework.lang.NonNull;
 
 /**
- * @author hiran
+ * 
  * @Description Entity Object
  * used for persisting store orders to database
  */

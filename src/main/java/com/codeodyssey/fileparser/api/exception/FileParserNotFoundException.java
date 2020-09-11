@@ -1,10 +1,8 @@
-/**
- * 
- */
+
 package com.codeodyssey.fileparser.api.exception;
 
 /**
- * @author hiran
+ * 
  * @Description File Parser Not found
  * exception thrown when Parser not configured for
  * file type

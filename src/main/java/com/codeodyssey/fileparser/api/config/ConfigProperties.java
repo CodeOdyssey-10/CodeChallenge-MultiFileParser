@@ -4,7 +4,7 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author hiran
+ * 
  * @Description Common place for configuring all properties
  */
 @Configuration

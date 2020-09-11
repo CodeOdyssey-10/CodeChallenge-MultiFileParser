@@ -10,7 +10,7 @@ import com.codeodyssey.fileparser.api.exception.FileParserNotFoundException;
 import com.codeodyssey.fileparser.api.service.IFileParserService;
 
 /**
- * @author hiran
+ * 
  * @Description Factory class returns
  * the Specific FileParser Service based on filetype
  * derived from file extension

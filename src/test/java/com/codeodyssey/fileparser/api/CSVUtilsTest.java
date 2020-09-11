@@ -8,10 +8,7 @@ import org.junit.jupiter.api.Test;
 
 import com.codeodyssey.fileparser.api.utils.CSVUtils;
 
-/**
- * @author hiran
- *
- */
+
 class CSVUtilsTest {
 
 	@Test

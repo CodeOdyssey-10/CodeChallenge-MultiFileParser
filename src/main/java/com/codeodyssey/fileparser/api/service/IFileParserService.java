@@ -7,7 +7,6 @@ import java.util.List;
 import com.codeodyssey.fileparser.api.exception.InvalidCSVFileException;
 
 /**
- * @author hiran
  * @Description This is the parent interface
  * used to provide Interchangeability & keep individual parsing algorithm
  * in the child class

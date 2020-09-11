@@ -1,12 +1,7 @@
-/**
- * 
- */
+
 package com.codeodyssey.fileparser.api.constants;
 
-/**
- * @author hiran
- *
- */
+
 public  class FileConstants {
 	
 	public class FILE_TYPES{

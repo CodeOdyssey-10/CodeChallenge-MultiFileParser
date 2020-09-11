@@ -25,7 +25,6 @@ import com.codeodyssey.fileparser.api.service.IFileParserService;
 import com.codeodyssey.fileparser.api.utils.CSVUtils;
 
 /**
- * @author hiran
  * @Description Implements CSV File Parser
  *
  */
